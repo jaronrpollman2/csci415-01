@@ -1,0 +1,17 @@
+Cuda Processsing
+
+
+CPU Run Time: 0.27815 sec
+
+GPU Run Time: 0.14026 sec
+Result comparison passed.
+
+CPU Run Time: 0.34385 sec
+
+GPU Run Time: 0.13873 sec
+Result comparison passed.
+
+CPU Run Time: 0.28122 sec
+
+GPU Run Time: 0.12446 sec
+Result comparison passed.

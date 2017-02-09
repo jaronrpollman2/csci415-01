@@ -1,6 +1,6 @@
-NVCC = /usr/local/cuda/bin/nvcc
+NVCC = /usr/bin/nvcc
 
-NVCC_FLAGS = -I/usr/local/cuda/include -lineinfo
+NVCC_FLAGS = -I/usr/include -lineinfo
 
 # make emu=1 compiles the CUDA kernels for emulation
 ifeq ($(emu),1)
